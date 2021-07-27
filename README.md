@@ -8,6 +8,9 @@ A spam and non spam emails filters implemented by basic python and ML concepts
 2. Generate the Feature Set  for training your model for available classifiers in NLTK Library.
 3. Justify the suitable classifier for your dataset based on Accuracy and other parameters (If Applicable)
 
+Find the entire explanation of this code in this article here: https://dev.to/saxenamansi/classifying-spam-emails-using-basic-python-2m70
+
+
 **EmailClassifier with nltk predefined functions:**
 
 The aim of this activity is to use and familiar with NLTK predefined functions. Convert your Email classification  program with same data set with NLTK predefined functions and try different classes and methods available in it.
